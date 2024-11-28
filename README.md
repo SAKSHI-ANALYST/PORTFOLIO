@@ -1,6 +1,8 @@
 # PORTFOLIO
 Selfmade Projects
-#1Climate change's impact on agriculture
+#1Climate change's impact on agriculture(Power Bi)
 This project analyzes the impact of climate change on agriculture by examining variables like crop yield, rainfall storage, irrigation access, and CO2 emissions. Insights reveal significant economic losses due to extreme weather, with declining yields over the years. Soil health and temperature are key factors affecting crop performance globally, highlighting sustainability challenges.
-#2Coffee shop sale analysis
+#2Coffee shop sale analysis(Tableau)
 This project analyzed coffee shop sales data to optimize revenue and inventory management. Using Tableau, a series of dashboards were created to identify key insights like Highest to lowest average transactions by store location, Peak sales hours to optimize staffing and stock replenishment, Top 10 revenue-generating products, showcasing popular choices like Chai Tea and Gourmet Coffee, Weekly sales trends to plan promotional campaigns, Customer preferences by product category to align inventory with demand, Revenue breakdown by location, and product type for strategic planning. The visualizations guided data-driven decisions for marketing, staffing, and inventory strategies to enhance profitability and customer satisfaction.
+#3Telecom companies(python)
+This project analyzed network speed and signal strength data for leading telecom operators in Rajasthan, including Airtel, Jio, and CellOne, covering 2018 to 2024. Key metrics like download/upload speeds, signal strength, and technology types (2G, 3G, 4G) were studied. Insights were drawn to understand how telecom companies operate in Rajasthan, highlighting their performance trends and implications for consumer experiences and market dynamics. Data visualization revealed temporal and geographic patterns, offering a comprehensive view of telecom operations in the state.
